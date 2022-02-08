@@ -1,0 +1,6 @@
+aiogram<3.0
+environs~=8.0.0
+SQLAlchemy~=1.4.31
+aiohttp~=3.8.1
+asyncpg
+aiosqlite
